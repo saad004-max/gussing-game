@@ -1,0 +1,5 @@
+# Guessing Game Project
+
+**Date and Time:** Fri Dec 6 12:00:00 UTC 2024
+
+**Number of lines in guessinggame.sh:** 29
